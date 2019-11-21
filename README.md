@@ -4,9 +4,10 @@ Script to downloadYoutube videos using youtube-dl in an easy way. This is the li
 The App will download the highest quality video available.
 
 # Dependencies
-You will need to have [**youtube-dl**](https://github.com/ytdl-org/youtube-dl) installed.
+You will need to have [youtube-dl](https://github.com/ytdl-org/youtube-dl) installed.
 
 From their README:
+
 To install it right away for all UNIX users (Linux, macOS, etc.), type:
 
 ```
@@ -19,6 +20,14 @@ If you do not have curl, you can alternatively use a recent wget:
 ```
 sudo wget https://yt-dl.org/downloads/latest/youtube-dl -O /usr/local/bin/youtube-dl
 sudo chmod a+rx /usr/local/bin/youtube-dl
+```
+
+If you want the automatic postprocessor to transform your video to .mp4, you will need to have [ffmpeg](https://github.com/FFmpeg/FFmpeg) or **avconf** installed.
+
+On Debian based distributions, you can simply paste:
+
+```
+sudo apt install ffmpeg
 ```
 
 # Usage
