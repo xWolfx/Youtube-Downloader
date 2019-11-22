@@ -1,5 +1,5 @@
 # Youtube-Downloader
-Script to downloadYoutube videos using youtube-dl in an easy way. This is the linux version.
+Script to download Youtube videos using youtube-dl in an easy way. This is the linux version.
 
 The App will download the highest quality video available.
 
@@ -38,3 +38,6 @@ python3 YouTube-Script.py
 ```
 
 Then follow the instructions.
+
+
+A more easy-to-use version will come *soon*.
