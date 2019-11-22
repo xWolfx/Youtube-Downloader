@@ -22,7 +22,7 @@ sudo wget https://yt-dl.org/downloads/latest/youtube-dl -O /usr/local/bin/youtub
 sudo chmod a+rx /usr/local/bin/youtube-dl
 ```
 
-If you want the automatic postprocessor to transform your video to .mp4, you will need to have [ffmpeg](https://github.com/FFmpeg/FFmpeg) or **avconf** installed.
+If you want the automatic postprocessor to transform your video to .mp4, you will need to have [ffmpeg](https://github.com/FFmpeg/FFmpeg) or [avconv](https://github.com/libav/libav) installed.
 
 On Debian based distributions, you can simply paste:
 
