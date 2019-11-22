@@ -3,7 +3,7 @@ Script to download Youtube videos using youtube-dl in an easy way. This is the l
 
 The App will download the highest quality video available.
 
-# Dependencies
+## Dependencies
 You will need to have [youtube-dl](https://github.com/ytdl-org/youtube-dl) installed.
 
 From their README:
@@ -30,7 +30,7 @@ On Debian based distributions, you can simply paste:
 sudo apt install ffmpeg
 ```
 
-# Usage
+## Usage
 Simply open your terminal and paste:
 
 ```
