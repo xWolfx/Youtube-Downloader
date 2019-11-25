@@ -31,7 +31,7 @@ sudo apt install ffmpeg
 ```
 
 ## Usage
-Simply open your terminal and paste:
+If the script is in your home folder. Simply open your terminal and paste:
 
 ```
 python3 YouTube-Script.py
