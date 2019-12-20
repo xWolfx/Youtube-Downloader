@@ -1,6 +1,8 @@
 # Youtube-Downloader
 Script to download Youtube videos using youtube-dl in an easy way. This is the linux version.
 
+Windows version coming *soon*.
+
 The App will download the highest quality video available.
 
 ## Dependencies
